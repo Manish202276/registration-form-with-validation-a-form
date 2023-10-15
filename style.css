@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    color: #e7890f;
+}
+div{
+    padding-left: 670px;
+    line-height: 20px;
+    padding-top: 100px;
+}
+body{
+    background-color: #0fdf32;
+}
+.c1,.c2,.c3,.c4,.c5{
+color: rgb(255, 0, 25);
+}
